@@ -9,6 +9,8 @@ author: "Yanshuang Tang"
 
 Since the early twentieth century, feminist ideas have gradually taken root in China alongside the global rise of egalitarian thought. Over time, their forms of expression have evolved—from print media and academic writing to interactive digital communication. With the growth of social media, feminist discussions have expanded beyond universities and traditional news outlets into public online spaces such as **Weibo**, **Xiaohongshu**, and **TikTok**, giving rise to new forms of digital activism. These platforms create spaces where women can share experiences, advocate for equality, and engage in public debate.  
 
+![Feminism Network](image.jpg)
+
 As a **graduate student in media studies**, my research explores how emerging digital technologies both **empower and reshape** feminist activism in China, transforming the methods and analytical frameworks available to researchers.
 
 ---
@@ -18,6 +20,8 @@ As a **graduate student in media studies**, my research explores how emerging di
 ### 1.1 Social Media as a Fertile Ground for Feminist Discourse
 
 Feminist discourse introduced from Western contexts has rapidly developed in China, finding fertile ground on domestic platforms. **Weibo**, comparable to Twitter, and **Xiaohongshu**, similar to Instagram, provide accessible spaces for Chinese feminists to voice concerns and organize online activism. These platforms also offer rich data sources for scholars studying gendered communication.  
+
+![Metoo on Weibo](image2.jpg)
 
 New technological practices further expand research opportunities. On Weibo, **automated bot accounts** such as *Radical Feminist Bot* and *Anti-Radical Feminist Bot* aggregate and repost feminist submissions, protecting anonymity while fostering debate. Such practices invite analysis of **automation, anonymity, and digital mediation** within feminist movements.
 
